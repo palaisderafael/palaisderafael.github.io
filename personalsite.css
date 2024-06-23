@@ -5,11 +5,11 @@ body{
 
 div{
     border: 1px solid black;
-    padding: 10px;
-    width: 200px;
+    padding: 9px;
+    width: 230px;
     height: 19px;
     text-align: center;
-    border-radius: 20px;
+    
     background-color: #f8f8ff;
     
 }
