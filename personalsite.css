@@ -1,0 +1,32 @@
+body{
+  background-color: snow;
+  color: black;
+}
+
+div{
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 19px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: palegreen;
+    
+}
+
+img{
+    border: 1px solid black;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px;
+    
+}
+
+.blurrbotton{
+    border: 0px solid black;
+    border-radius: 23px;
+}
+
