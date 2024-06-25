@@ -1,0 +1,13 @@
+body{
+  background-color: lightgray;
+  color: olive;
+}
+img{
+    border: 1px solid rgb(255, 0, 0);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px;
+}
